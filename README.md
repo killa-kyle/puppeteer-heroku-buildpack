@@ -13,7 +13,7 @@ $ heroku buildpacks:add jontewks/puppeteer
 Or use the source code in this repository:
 
 ```sh-session
-$ heroku buildpacks:add https://github.com/jontewks/puppeteer-heroku-buildpack.git
+$ heroku buildpacks:add https://github.com/killa-kyle/puppeteer-heroku-buildpack.git
 ```
 
 ### Additional language support
